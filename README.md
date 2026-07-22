@@ -14,7 +14,7 @@ Este trabajo identifico que la base actualmente empleada en la Universidad de Cu
 
 Fuentes que historicamente han sido empleadas en las tablas de comoposción en america latina incluyen mayormente informacion del Departamento de Agricultura de los Estados Unidos (https://fdc.nal.usda.gov/data-documentation).
 
-TAREAS ADDICIONALES
+TAREAS ADICIONALES
 
 Empleando compilacion de información secundaria, tres componentes mayores son necesarios para esta acualización : 
 
